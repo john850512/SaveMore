@@ -47,3 +47,6 @@ Once you hit them three times, enemy will dizzy and become ill, at the moment yo
 - Unity
 - C#
 - Visual Studio
+
+## Detail
+For more detail you can see in my blog:![專題競賽]2016波克城市數位遊戲設計-參賽心得](https://john850512.wordpress.com/2016/06/11/%E5%B0%88%E9%A1%8C%E7%AB%B6%E8%B3%BD2016%E6%B3%A2%E5%85%8B%E5%9F%8E%E5%B8%82%E6%95%B8%E4%BD%8D%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88-%E5%8F%83%E8%B3%BD%E5%BF%83%E5%BE%97/)
